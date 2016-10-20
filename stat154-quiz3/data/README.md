@@ -1,4 +1,4 @@
-Dataset Description: housing.csv concerns housing values in suburbs of Boston. 
+Dataset Description: housing.csv contains information on housing values in the suburbs of Boston. 
 
 The dataset was created by Harrison, D. and Rubinfeld, D.L. and analyzed in ’Hedonic prices and the demand for clean air’, J. Environ. Economics & Management, vol.5, 81-102, 1978.
 
