@@ -1,4 +1,4 @@
-housing <- read.csv("~/housing.csv", header = TRUE)
+housing <- read.csv("~/data/housing.csv", header = TRUE)
 attach(housing)
 View(housing)
 names(housing)
